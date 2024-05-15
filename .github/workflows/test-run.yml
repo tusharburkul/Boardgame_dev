@@ -1,5 +1,5 @@
 
-name: Cicd testing pipline
+name: Testing pipline
 
 on:
   push:
